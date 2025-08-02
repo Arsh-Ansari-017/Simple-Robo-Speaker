@@ -1,2 +1,20 @@
 # Simple-Robo-Speaker
-A Command-Line Interface (CLI) is a text-based interface that allows users to interact with computer systems or software by typing commands into a terminal. Unlike graphical user interfaces (GUIs), CLIs offer faster execution, greater precision, and enhanced control, making them ideal for developers, automation, and advanced system tasks.
+Robo Speaker – AI Voice Assistant using Python
+Description:
+Developed a Python-based voice assistant that converts text to speech using the pyttsx3 library. The program accepts user input via the command line and delivers real-time audio output, simulating the functionality of a basic robotic speaker. Designed for cross-platform compatibility, it features customizable voice properties, including rate, volume, and voice gender.
+
+Key Features:
+
+Text-to-speech conversion using pyttsx3
+
+Works offline without internet dependency
+
+Customizable voice rate and pitch
+
+User-friendly CLI interface
+
+Lightweight and beginner-friendly
+
+Tech Stack: Python, pyttsx3, command-line interface (CLI)
+
+Use Cases: Basic voice notifications, accessibility tools, educational demo for speech synthesis
